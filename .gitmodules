@@ -1,6 +1,8 @@
 [submodule "photo-web"]
 	path = photo-web
 	url = git@github.com:jdrobertso/photo-web.git
+	branch = setup-dummy
 [submodule "photo-api"]
 	path = photo-api
 	url = git@github.com:jdrobertso/photo-api.git
+	branch = sequel-gem-setup
